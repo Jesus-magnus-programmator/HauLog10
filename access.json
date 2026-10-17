@@ -1,0 +1,8 @@
+{
+  "_help": "Google sign-in settings. Leave clientId empty to keep using the access key. See README.txt, section GOOGLE SIGN-IN.",
+  "clientId": "",
+  "allowedEmails": [],
+  "allowedDomains": [],
+  "adminEmails": [],
+  "keyFallback": true
+}
